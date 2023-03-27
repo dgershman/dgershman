@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dgershman
 - 👀 I’m interested in Security!
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Zarf.
 - 💞️ I’m looking to collaborate on Zero Trust + Deception Technology.
 - 📫 How to reach me danny@radiusmethod.com
 
